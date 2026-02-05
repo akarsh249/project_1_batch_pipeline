@@ -1,0 +1,5 @@
+# Data (don’t upload raw files)
+data/raw/
+*.csv
+*.xls
+*.xlsx
