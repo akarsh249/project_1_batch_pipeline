@@ -1,17 +1,17 @@
-<<<<<<< HEAD
+
 ## Pipeline Screenshots
 
 ### Staging Layer
-![Staging](screenshot staging table.png)
+![Staging](screenshots/screenshot%20staging%20table.png)
 
 ### Clean Layer
-![Clean](screenshot clean.orders.png)
+![Clean](screenshots/Screenshot%20clean.orders.png)
 
 ### Analytics Output
-![Analytics](screenshot query.png)
+![Analytics](screenshots/Screenshot%20query.png)
 
 ### Docker Environment
-![Docker](screenshot docker.png)
+![Docker](screenshots/Screenshot%20docker.png)
 =======
 ## How to Run
 
@@ -29,4 +29,4 @@
 
 5. Run analytics queries:
    Use files in sql/05_analytics_queries.sql
->>>>>>> 51f899625b2c4e93b2b7d9010cc8218503ae93b5
+
